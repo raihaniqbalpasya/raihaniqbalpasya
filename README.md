@@ -1,4 +1,4 @@
-## Hi there, I'm Raihan <a href="https://github.com/yuka-astersea"><img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="25px"></a>
+## Hi there, I'm Raihan <a href="https://github.com/yuka-astersea"><img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="50px"></a>
 
 Currently working on some open source project, and open to hire.
 
