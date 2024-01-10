@@ -6,6 +6,7 @@
 <p align="left">
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihaniqbalpasya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="170em" src="https://streak-stats.demolab.com?user=raihaniqbalpasya&theme=neon-dark" />
+<img src="https://streak-stats.demolab.com?user=raihaniqbalpasya&theme=ads-juicy-fresh&hide_border=true&border_radius=4.7&card_width=500" alt="GitHub Streak" />
 </p>
 </a>
 
