@@ -9,6 +9,7 @@
 <img height="180em" src="https://streak-stats.demolab.com/?user=raihaniqbalpasya&theme=ads-juicy-fresh&hide_border=true&border_radius=4.7"/>
 </p>
 </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=raihaniqbalpasya&theme=ads-juicy-fresh&hide_border=true&border_radius=4.7&card_width=500)](https://git.io/streak-stats)
 
  📫 How to reach me:
  [LinkedIn](https://www.linkedin.com/in/raihaniqbalpasya)
