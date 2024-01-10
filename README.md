@@ -4,8 +4,8 @@
 
 <a href="https://github.com/raihaniqbalpasya">
 <p align="left">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihaniqbalpasya&show_icons=true&theme=discord-old-blurple&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://streak-stats.demolab.com/?user=raihaniqbalpasya&theme=discord-old-blurple"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihaniqbalpasya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=raihaniqbalpasya&theme=algolia"/>
 </p>
 </a>
 
