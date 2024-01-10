@@ -9,7 +9,7 @@
 </p>
 </a>
 
-<a href="https://github.com/raihaniqbalpasya"><img src="https://streak-stats.demolab.com?user=raihaniqbalpasya&theme=ads-juicy-fresh&hide_border=true&border_radius=4.7&card_width=500" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raihaniqbalpasya&theme=ads-juicy-fresh&hide_border=true&border_radius=4.7&card_width=500" alt="GitHub Streak" /></a>
 
  📫 How to reach me:
  [LinkedIn](https://www.linkedin.com/in/raihaniqbalpasya)
