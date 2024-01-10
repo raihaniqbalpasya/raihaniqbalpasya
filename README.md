@@ -4,12 +4,11 @@
 
 <a href="https://github.com/raihaniqbalpasya">
 <p align="left">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihaniqbalpasya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihaniqbalpasya&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihaniqbalpasya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihaniqbalpasya&layout=compact&theme=radical"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=raihaniqbalpasya&theme=ads-juicy-fresh&hide_border=true&border_radius=4.7"/>
 </p>
 </a>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=raihaniqbalpasya&theme=ads-juicy-fresh&hide_border=true&border_radius=4.7&card_width=500" alt="GitHub Streak" /></a>
 
  📫 How to reach me:
  [LinkedIn](https://www.linkedin.com/in/raihaniqbalpasya)
