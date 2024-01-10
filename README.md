@@ -1,16 +1,15 @@
-## Hi there, I'm Raihan <a href="https://github.com/raihaniqbalpasya"><img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="50px"></a>
+# Hello there, I'm Raihan <a href="https://github.com/raihaniqbalpasya"><img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="50px"></a>
 
-Currently working on some open source project, and open to hire.
-
+🌱 A fresh graduate who's working on some projects, and is open to being hire.
 
 <a href="https://github.com/raihaniqbalpasya">
 <p align="left">
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihaniqbalpasya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://streak-stats.demolab.com/?user=raihaniqbalpasya&theme=algolia"/>
+<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raihaniqbalpasya&show_icons=true&theme=calm-pink&include_all_commits=true&count_private=true"/>
+<img height="200em" src="https://streak-stats.demolab.com/?user=raihaniqbalpasya&theme=algolia"/>
 </p>
 </a>
 
- How to reach me:
+ 📫 How to reach me:
  [LinkedIn](https://www.linkedin.com/in/raihaniqbalpasya)
 <!--
 **raihaniqbalpasya/raihaniqbalpasya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
